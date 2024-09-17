@@ -4,7 +4,7 @@ Goals:
 1. Get better at coding
 2. Understand computer science more
 3. Understand Github
-Frozen Yogurt at budha berry @mrjloswald
+4. Frozen Yogurt at budha berry @mrjloswald
 
 
 
